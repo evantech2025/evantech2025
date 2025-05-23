@@ -1,4 +1,4 @@
-<h1>Hello I'm Evan, an <a href="https://linkedin.com/">IT Specialist</a></h1>
+<h1>Hello I'm Evan, an <a href="https://linkedin.com/">IT Specialist ☺</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
