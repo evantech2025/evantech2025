@@ -17,5 +17,5 @@
 [<img align="left" alt="EvanMachado | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/
+[linkedin]: https://www.linkedin.com/in/evan-machado-764739368
 
