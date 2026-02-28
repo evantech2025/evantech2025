@@ -1,6 +1,6 @@
-<h1>Hello I'm Evan, an <a href="https://www.linkedin.com/in/emachado2044">IT Specialist</a> 😄</h1>
+<h1>Hello I'm Evan, a <a href="https://www.linkedin.com/in/emachado2044">Cybersecurity student</a> 😄</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
   - [osTicket: Prerequisites and Installation](https://github.com/evantech2025/osticket-prereqs)
